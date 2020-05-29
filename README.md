@@ -1,2 +1,2 @@
-# Hacker_rank
-# Hacker_rank
+# Hacker_rank practise codes
+
